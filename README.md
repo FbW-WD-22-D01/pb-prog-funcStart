@@ -13,7 +13,7 @@ Funktionen sind ein Codeblock, der eine bestimmte Aufgabe erfüllt und den ihr w
 4. `{ euer Code }`  mir den ***curly braces {}*** wird der Funktionskörper eingerahmt, hier drin ist euer Code, der die Arbeit erledingen soll.
 5. `return` im Funktionskörper (siehe 4), können `return` Statemnts stehen, dass ist ein Wert der am Ende der Berechnug gzurückgegeben wird. Wichtig, es kann immer nur ein Wert zurückgegeben werden, z.B. eine `number`, `boolean`, `array` oder `object` etc... <br> Funktionen funktionieren auch ohne `return`, allerdings wird dann kein 
 Wert nach "Außen" zurückgegeben. 
-6. `Beispielfunktion()` nachdem ihr in 1-5 eure Funktion definiert habt, solltet ihr diese auch in eurem Code aufrufen, sonst wird sie nicht gestartet. Der Aufruf erfolgt mit dem Namen der Funktion und den runden Klammern. Wenn ihr Argumente (siehe 3) in eurer Funktion verwenden wollt, müssen diese hier übergeben werden. Eine Funktion kann an beliebiger Stelle und beliebig oft im Code gestartet werden.
+6. `Beispielfunktion()` nachdem ihr in 1-5 eure Funktion definiert habt, solltet ihr diese auch in eurem Code aufrufen, sonst wird diese nicht gestartet. Der Aufruf erfolgt mit dem Namen der Funktion und den runden Klammern. Wenn ihr Argumente (siehe 3) in eurer Funktion verwenden wollt, müssen diese hier übergeben werden. Eine Funktion kann an beliebiger Stelle und beliebig oft im Code gestartet werden.
 
 
 ### Beispiele:
