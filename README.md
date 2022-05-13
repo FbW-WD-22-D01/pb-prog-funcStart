@@ -69,4 +69,4 @@ console.log(monat());
 März
 Juni 
 ```
-*Erklärung: Die Funktion hat den Namen `monat`, in der Funktion gibt es eine Liste (`array`) aller Monate, es wird eine Zufallszahl von 0-11 erzeugt, da die Länge des `array` 12 ist. Im letzten Schritt wird die zufällige Zahl benutzt einen der Monate aus der Liste auszuwählen, dieser wird zurückgegeben. Beim Starten der Funtkion wird kein Argument übergeben, da die Funktion nichts von außen braucht, sondern immer nur eine zufälligen Monat zurückgibt...* 
+*Erklärung: Die Funktion hat den Namen `monat`, in der Funktion gibt es eine Liste (`array`) aller Monate. Es wird eine Zufallszahl von 0-11 erzeugt, da die Länge des `array` 12 ist. Im letzten Schritt wird die Zahl benutzt einen der Monate "zufällig" aus der Liste auszuwählen, dieser wird zurückgegeben. Beim Starten der Funtkion wird kein Argument übergeben, da die Funktion nichts von außen braucht. Nach dem starten der Funktion gibt diese immer einen zufälligen Monat zurück...* 
