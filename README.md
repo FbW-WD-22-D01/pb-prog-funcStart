@@ -1,9 +1,8 @@
 # Überblick Funktionen
 
 ## Was 
-Funktionen sind einfach ein Codeblock, der eine bestimmte Aufgabe erfüllt und den ihr immer wieder verwenden könnt. 
+Funktionen sind ein Codeblock, der eine bestimmte Aufgabe erfüllt und den ihr wiederverwenden könnt. 
 
-<br>
 
 ## Aufbau
 ### function statement besteht aus:
