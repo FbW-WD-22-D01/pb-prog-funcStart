@@ -8,7 +8,7 @@ Funktionen sind ein Codeblock, der eine bestimmte Aufgabe erfüllt und den ihr w
 ### function statement besteht aus:
 1. Schlüsselwort `function` 
 2. der Name der Funktion - könnt ihr frei wählen
-3. `(parameter1, ...)` - hier könnt ihr Werte in die Funktion reingeben, mit denen ihr in der Funktion etwas "machen" könnt. Diese Parameter werden `arguments` genannt und sind Variablen, die nur in der Funktion vorhanden sind. Welchen Wert diese `arguments` haben, wird beim Starten der Funktion festgelegt.<br> 
+3. `(parameter1, ...)` - hier könnt ihr Werte in die Funktion reingeben, mit denen ihr in der Funktion etwas "machen" könnt. Diese beim Start übergebenen Werte werden Argumente genannt und sind Variablen, die nur in der Funktion vorhanden sind. <br> 
 ***Beispiel -->*** ```console.log('Hello World')```, hier wird das Argument `"Hello World"` an die Funktion gegeben, die dann dafür sorgt, dass "Hello World" bei uns im Terminal erscheint...
 4. `{ euer Code }`  mir den ***curly braces {}*** wird der Funktionskörper eingerahmt, hier drin ist euer Code, der die Arbeit erledingen soll.
 5. `return` im Funktionskörper (siehe 4), können `return` Statemnts stehen, dass ist ein Wert der am Ende der Berechnug gzurückgegeben wird. Wichtig, es kann immer nur ein Wert zurückgegeben werden, z.B. eine `number`, `boolean`, `array` oder `object` etc... <br> Funktionen funktionieren auch ohne `return`, allerdings wird dann kein 
